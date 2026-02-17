@@ -4,9 +4,8 @@ Engineering **High-Performance Local AI** to:
 1. **Empower humans** in extreme environments
 2. **Reclaim individual** data sovereignty
 
-- Rooted In ![math](https://img.shields.io/badge/Math-000000?style=flat-square&logo=mathematica&logoColor=white), ![physics](https://img.shields.io/badge/Physics-000000?style=flat-square&logo=physics&logoColor=white), ![cognitive science](https://img.shields.io/badge/Cognitive%20Science-000000?style=flat-square&logo=mindmap&logoColor=white), ![defense tech](https://img.shields.io/badge/Defense%20Tech-000000?style=flat-square&logo=shield&logoColor=white)
-
 - Keywords: ![Efficiently Working Agent](https://img.shields.io/badge/Efficiently%20Working%20Agent-000000?style=flat-square), ![Nature-Inspired Intelligence](https://img.shields.io/badge/Nature--Inspired%20Intelligence-000000?style=flat-square), ![NeoCybernetic Movement](https://img.shields.io/badge/NeoCybernetic%20Movement-000000?style=flat-square)
+- Rooted In ![math](https://img.shields.io/badge/Math-000000?style=flat-square&logo=mathematica&logoColor=white), ![physics](https://img.shields.io/badge/Physics-000000?style=flat-square&logo=physics&logoColor=white), ![cognitive science](https://img.shields.io/badge/Cognitive%20Science-000000?style=flat-square&logo=mindmap&logoColor=white), ![defense tech](https://img.shields.io/badge/Defense%20Tech-000000?style=flat-square&logo=shield&logoColor=white)
 
 ---
 
