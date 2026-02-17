@@ -11,4 +11,4 @@ Engineering **High-Performance Local AI** to:
 ---
 
 ### 📂 Projects
-* **[neoLAT](https://github.com/neomakes/neoLAT)** — *Local Agent Testbed*; An automated testbed for evaluating **L**ocal Agent efficiency and monitoring on-device AI.
+* **[NeoLAT](https://github.com/neomakes/neoLAT)** — *Local Agent Testbed*; An automated testbed for evaluating **L**ocal Agent efficiency and monitoring on-device AI.
