@@ -10,6 +10,6 @@ Engineering **High-Performance Local AI** to:
 ---
 
 ### 📂 Projects
-* **[FemtoLLM](https://github.com/neomakes/femtollm)** — *Zero-Knowledge Logic Engine*; A highly efficient, ultra-lightweight AI core focused purely on reasoning and logic, not memorizing facts. Designed to run locally on low-end devices.
+* **[NeoEngine](https://github.com/neomakes/neoengine)** — *Zero-Knowledge Logic Engine*; A highly efficient, ultra-lightweight AI core focused purely on reasoning and logic, not memorizing facts. Designed to run locally on low-end devices.
 * **[NeoCLAW](https://github.com/neomakes/neoclaw)** — *Secure Tool-Use Framework*; An orchestration layer that connects local AI to the real world. It allows the AI to use apps, search the web, and correct its own mistakes within a safe, sandboxed environment.
 * **[NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*; An automated tool for evaluating how efficiently and intelligently a local AI works, from its hardware power consumption to its final behavior.
