@@ -1,7 +1,7 @@
 # Building high-reliability 𝑨𝑰 for the world’s most critical missions
 
 Engineering **high-reliability AI** to:
-1. **Empower humans** in extreme environments
+1. **Augment humans** in extreme environments
 2. **Reclaim individual** data sovereignty
 
 - Keywords: ![Efficiently Working Agent](https://img.shields.io/badge/Efficiently%20Working%20Agent-000000?style=flat-square), ![Nature-Inspired Intelligence](https://img.shields.io/badge/Nature--Inspired%20Intelligence-000000?style=flat-square), ![NeoCybernetic Movement](https://img.shields.io/badge/NeoCybernetic%20Movement-000000?style=flat-square)
