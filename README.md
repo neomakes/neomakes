@@ -1,6 +1,6 @@
 # Building high-reliability 𝑨𝑰 for the world’s most critical missions
 
-Engineering **high-reliability AI** to:
+To:  
 1. **Augment humans** in extreme environments
 2. **Reclaim individual** data sovereignty
 
