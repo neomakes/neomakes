@@ -1,4 +1,4 @@
-# 𝑨𝑰 for broader 𝘧𝘳𝘦𝘦𝘥𝘰𝘮 and deeper 𝘱𝘦𝘢𝘤𝘦.
+# Building high-reliability 𝑨𝑰 for the world’s most critical missions
 
 Engineering **High-Performance Local AI** to:
 1. **Empower humans** in extreme environments
