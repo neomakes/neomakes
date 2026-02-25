@@ -1,6 +1,6 @@
 # Building high-reliability 𝑨𝑰 for the world’s most critical missions
 
-Engineering **High-Performance Local AI** to:
+Engineering **high-reliability AI** to:
 1. **Empower humans** in extreme environments
 2. **Reclaim individual** data sovereignty
 
