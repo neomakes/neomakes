@@ -11,5 +11,4 @@ Engineering intelligent systems to:
 
 ### 📂 Projects
 * **[EigenLLM](https://github.com/neomakes/eigenllm)** — *Zero-Knowledge Logic Engine*; A highly efficient, ultra-lightweight AI core focused purely on reasoning and logic, not memorizing facts. Designed to run locally on low-end devices.
-* **[GödelHAND](https://github.com/neomakes/godelhand)** — *Secure Tool-Use Framework*; An orchestration layer that connects local AI to the real world. It allows the AI to use apps, search the web, and correct its own mistakes within a safe, sandboxed environment.
 * **[NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*; An automated tool for evaluating how efficiently and intelligently a local AI works, from its hardware power consumption to its final behavior.
