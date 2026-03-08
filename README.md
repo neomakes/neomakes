@@ -10,5 +10,9 @@ Engineering intelligent systems to:
 ---
 
 ### 📂 Projects
-* **[NeoCOG](https://github.com/neomakes/neocog)** — *Instant Agentic Core*; An ultra-fast local engine that activates pure reasoning and tool-use for lightweight, on-device automation.
-* **[NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*; An automated tool for evaluating how efficiently and intelligently a local AI works, from its hardware power consumption to its final behavior.
+* **[NeoCOG](https://github.com/neomakes/neocog)** — *Instant Agentic Core*
+  * An ultra-fast local engine that activates pure reasoning and tool-use for lightweight, on-device automation.
+* **[NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*
+  * An automated tool for evaluating how efficiently and intelligently a local AI works, from its hardware power consumption to its final behavior.
+* **[NeoTOC](https://github.com/neomakes/neotoc)*
+  *   *Total Operational Command*; A holistic agentic ecosystem for macOS and iOS that orchestrates a personal swarm of Software-Defined Agents via somatic context.
