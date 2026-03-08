@@ -10,5 +10,5 @@ Engineering intelligent systems to:
 ---
 
 ### 📂 Projects
-* **[EigenLLM](https://github.com/neomakes/eigenllm)** — *Zero-Knowledge Logic Engine*; A highly efficient, ultra-lightweight AI core focused purely on reasoning and logic, not memorizing facts. Designed to run locally on low-end devices.
+* **[NeoCOG](https://github.com/neomakes/neocog)** — The Instant Agentic Core; An ultra-fast local engine that activates pure reasoning and tool-use for lightweight, on-device automation.
 * **[NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*; An automated tool for evaluating how efficiently and intelligently a local AI works, from its hardware power consumption to its final behavior.
