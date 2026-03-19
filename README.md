@@ -11,17 +11,55 @@ Engineering intelligent systems to:
 
 ### 📂 Projects
 
-* **[🫡 NeoCOG](https://github.com/neomakes/neocog)** — *Instant Agentic Core*
-  * An ultra-fast local engine that activates pure reasoning and tool-use for lightweight, on-device automation.
+**— Application Layer —**
 
-* **[🎖️ NeoLAT](https://github.com/neomakes/neolat)** — *Local Agent Testbed*
-  * An automated evaluation framework for local AI — benchmarking hardware efficiency, latency, and agent behavior.
+* __[🫡 NeoCOG](https://github.com/neomakes/neocog)__ — Instant Agentic Core
+  * An ultra-fast local engine that activates pure reasoning
+    and tool-use for lightweight, on-device automation.
 
-* **[🕴️ NeoTOC](https://github.com/neomakes/neotoc)** — *Total Operational Command*
-  * A holistic agentic ecosystem for macOS/iOS that orchestrates a personal swarm of AI agents via somatic context.
+* __[🎖️ NeoLAT](https://github.com/neomakes/neolat)__ — Local Agent Testbed
+  * An automated evaluation framework for local AI —
+    benchmarking hardware efficiency, latency, and agent behavior.
 
-* **[🔬 NeoLAMINAR](https://github.com/neomakes/neolaminar)** — *Neural Field Research*
-  * Exploring cortical column dynamics and neural field models as the foundation for brain-inspired edge intelligence.
+* __[🕴️ NeoTOC](https://github.com/neomakes/neotoc)__ — Total Operational Command
+  * A holistic agentic ecosystem for macOS/iOS that orchestrates
+    a personal swarm of AI agents via somatic context.
 
-* **[🚒 NeoROGER](https://github.com/neomakes/neoroger)** — *Field Decision Support*
-  * On-device agent for real-time decision support in high-noise, comms-denied environments — starting with first responders.
+* __[📡 NeoSense](https://github.com/neomakes/neosense)__ — Somatic Intelligence Logger
+  * Turn your iPhone into a local sensor array —
+    8 modalities, no cloud, feeds directly into NeoCOG.
+
+* __[💊 NeoPIP](https://github.com/neomakes/neopip)__ — Personal Intelligence Platform
+  * Privacy-first wellness AI. On hold —
+    learnings absorbed into NeoCOG architecture.
+
+* __[🚒 NeoROGER](https://github.com/neomakes/neoroger)__ — Field Decision Support
+  * On-device agent for real-time decision support in high-noise,
+    comms-denied environments — starting with first responders.
+
+**— Theory Layer —**
+
+* __[🧠 human-wm](https://github.com/neomakes/human-wm)__ — Human Behavior World Model
+  * VRAE-based behavior trajectory modeling.
+    Theory backbone for NeoPIP wellness intelligence.
+
+* __[⚗️ eigen-llm](https://github.com/neomakes/eigenllm)__ — LLM Decomposition Research
+  * Large General AI → Small Special AI.
+    Theoretical foundation for on-device inference.
+
+* __[🔬 neural-field](https://github.com/neomakes/neural-field)__ — Continuous-time Neural Computation
+  * Kuramoto + Free Energy + Goldberg Polyhedron.
+    Brain-inspired architecture for stateful edge agents.
+
+---
+
+| Repo | Layer | Status |
+|------|-------|--------|
+| neocog | Application | 🔨 In Progress |
+| neosense | Application | ✅ Active |
+| neotoc | Application | ✅ Active |
+| neopip | Application | ⏸ On Hold |
+| neolat | Application | 📋 Planned |
+| human-wm | Theory | 🔬 Research |
+| eigen-llm | Theory | 🔬 Research |
+| neural-field | Theory | 🔬 Research |
