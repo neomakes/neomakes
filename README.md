@@ -43,10 +43,6 @@ Engineering intelligent systems to:
   * VRAE-based behavior trajectory modeling.
     Theory backbone for NeoPIP wellness intelligence.
 
-* __[⚗️ eigen-llm](https://github.com/neomakes/eigenllm)__ — LLM Decomposition Research
-  * Large General AI → Small Special AI.
-    Theoretical foundation for on-device inference.
-
 * __[🔬 neural-field](https://github.com/neomakes/neural-field)__ — Continuous-time Neural Computation
   * Kuramoto + Free Energy + Goldberg Polyhedron.
     Brain-inspired architecture for stateful edge agents.
@@ -61,5 +57,4 @@ Engineering intelligent systems to:
 | neopip | Application | ⏸ On Hold |
 | neolat | Application | 📋 Planned |
 | human-wm | Theory | 🔬 Research |
-| eigen-llm | Theory | 🔬 Research |
 | neural-field | Theory | 🔬 Research |
