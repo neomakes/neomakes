@@ -33,10 +33,6 @@ Engineering intelligent systems to:
   * An automated evaluation framework for local AI —
     benchmarking hardware efficiency, latency, and agent behavior.
 
-* __[🕴️ NeoTOC](https://github.com/neomakes/neotoc)__ — Total Operational Command
-  * A holistic agentic ecosystem for macOS/iOS that orchestrates
-    a personal swarm of AI agents via somatic context.
-
 * __[📡 NeoSense](https://github.com/neomakes/neosense)__ — Somatic Intelligence Logger
   * Turn your iPhone into a local sensor array —
     8 modalities, no cloud, feeds directly into NeoCOG.
