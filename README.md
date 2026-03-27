@@ -1,4 +1,4 @@
-# On-device AI agents for field operators in network-denied environments
+# On-device AI agents for field operators in extreme mission environments
 
 Engineering intelligent systems to:
 1. **Augment human judgment** in extreme environments
@@ -10,6 +10,18 @@ Engineering intelligent systems to:
 ---
 
 ### 📂 Projects
+
+**— Flagship —**
+
+* __[🚒 NeoRoger](https://github.com/neomakes/neoroger)__ — On-device AI for First Responders
+  * AI engine for firefighters in network-denied environments.
+    Offline STT, speaker diarization, doctrine lookup — all on iPhone.
+    MOU signed with Korea National Fire Agency for field validation.
+
+* __[📜 Praxeology](https://github.com/neomakes/praxeology)__ — Self-Evolving AI Agent Governance
+  * A governance OS for AI agent teams. Strategy → Doctrine → Procedure → Playbook.
+    SafetyGate, ConstitutionalGuard, self-evolving SOPs.
+    Running NeoMakes: 1 founder + 9 agents + 38 regulations + 7 departments. MIT license.
 
 **— Application Layer —**
 
@@ -33,10 +45,6 @@ Engineering intelligent systems to:
   * Privacy-first wellness AI. On hold —
     learnings absorbed into NeoCOG architecture.
 
-* __[🚒 NeoROGER](https://github.com/neomakes/neoroger)__ — Field Decision Support
-  * On-device agent for real-time decision support in high-noise,
-    comms-denied environments — starting with first responders.
-
 **— Theory Layer —**
 
 * __[🧠 human-wm](https://github.com/neomakes/human-wm)__ — Human Behavior World Model
@@ -51,6 +59,8 @@ Engineering intelligent systems to:
 
 | Repo | Layer | Status |
 |------|-------|--------|
+| neoroger | Flagship | 🔨 In Progress |
+| praxeology | Flagship | ✅ Active (OSS) |
 | neocog | Application | 🔨 In Progress |
 | neosense | Application | ✅ Active |
 | neotoc | Application | ✅ Active |
