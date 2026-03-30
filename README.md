@@ -25,14 +25,6 @@ Engineering intelligent systems to:
 
 **— Application Layer —**
 
-* __[🫡 NeoCOG](https://github.com/neomakes/neocog)__ — Instant Agentic Core
-  * An ultra-fast local engine that activates pure reasoning
-    and tool-use for lightweight, on-device automation.
-
-* __[🎖️ NeoLAT](https://github.com/neomakes/neolat)__ — Local Agent Testbed
-  * An automated evaluation framework for local AI —
-    benchmarking hardware efficiency, latency, and agent behavior.
-
 * __[📡 NeoSense](https://github.com/neomakes/neosense)__ — Somatic Intelligence Logger
   * Turn your iPhone into a local sensor array —
     8 modalities, no cloud, feeds directly into NeoCOG.
